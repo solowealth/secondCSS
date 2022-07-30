@@ -1,0 +1,28 @@
+*{
+    border: 0px;
+    margin: 0px;
+}
+
+.container{
+    height: 60px;
+    text-align: center;
+    margin-top: 200px;
+}
+
+#about{
+    background-color: rgba(35, 27, 33, 0.25);
+    margin-left: 15.5rem;
+    width: 48rem;
+}
+
+#header{
+    color:black;
+}
+h1{
+    color: white;
+    padding: 20px;
+}
+
+ol{
+    list-style-type: black right;
+}
