@@ -13,7 +13,7 @@
     background-color: rgba(35, 27, 33, 0.25);
     margin-left: 15.5rem;
     margin-top: 5rem;
-    width: 48rem;
+    width: 49rem;
 }
 
 #header{
@@ -24,7 +24,11 @@ h1{
     padding: 20px;
 }
 
-ol{
-    list-style-type: disc;
+p{
     text-align: start;
+}
+
+.description{
+    margin-left: 20px;
+    margin-right: 20px;
 }
