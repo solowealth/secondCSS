@@ -4,7 +4,7 @@
 }
 
 .container{
-    height: 60px;
+    height: 40px;
     text-align: center;
     margin-top: 200px;
 }
@@ -12,6 +12,7 @@
 #about{
     background-color: rgba(35, 27, 33, 0.25);
     margin-left: 15.5rem;
+    margin-top: 5rem;
     width: 48rem;
 }
 
@@ -24,5 +25,6 @@ h1{
 }
 
 ol{
-    list-style-type: black right;
+    list-style-type: disc;
+    text-align: start;
 }
